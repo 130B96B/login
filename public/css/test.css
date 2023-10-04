@@ -116,8 +116,6 @@ ul,li {
     list-style: none;
 }
 
-/* 既存のスタイルがある場合、それに追加してください */
-
 /* メニューとサイドバーを包むコンテナのスタイル */
 .menu-container {
     background-color: #5bc8ac;
