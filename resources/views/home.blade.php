@@ -16,7 +16,7 @@
         </ul>
     </div>
 </div>
-<div class=admin_backgraund>
+<div class="admin_backgraund">
 <div class="admin">管理者</div>
 </div>
 
@@ -29,7 +29,7 @@
 <div class="box" id="box">
 <div class="space">
     <label class="Member_registration">会員登録</label>
-    <ul class=members>
+    <ul class="members">
           <li class="member">会員一覧</li>
     </ul>
 </div>
